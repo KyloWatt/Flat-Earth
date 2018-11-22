@@ -1,0 +1,14 @@
+body {
+    background-attachment: fixed;
+    background-position: center; 
+    background-image: url(https://i.kinja-img.com/gawker-media/image/upload/s--R_iUwFtZ--/c_scale,f_auto,fl_progressive,q_80,w_800/18myou0kz7ujejpg.jpg);
+    background-repeat: no-repeat;
+    background-color: black;
+}
+h1 {
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: teal; 
+    font-weight: bold;
+    
+}
